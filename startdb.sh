@@ -1,0 +1,1 @@
+mysql --user=cs4010 --password=cs4010 --database=cs4010
